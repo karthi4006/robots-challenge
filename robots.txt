@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /secret/
+Disallow: /super_secret/
 
 # Curious? The directory above might be interesting...
